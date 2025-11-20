@@ -1,0 +1,63 @@
+# Ignorar carpetas de compilación y ejecución
+bin/
+obj/
+out/
+dist/
+publish/
+
+# Ignorar archivos de configuración local
+appsettings.Development.json
+appsettings.Local.json
+.env
+.env.local
+
+# Ignorar logs
+logs/
+*.log
+
+# Ignorar archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar archivos de Rider / JetBrains
+.idea/
+*.iml
+
+# Ignorar archivos de VS Code
+.vscode/
+*.code-workspace
+
+# Ignorar archivos de git
+.git/
+.gitignore
+.gitattributes
+
+# Ignorar archivos temporales
+*.tmp
+*.temp
+*~
+
+# Ignorar documentación
+*.md
+ETAPA_*.md
+README.md
+
+# Ignorar reglas y configuración de IA
+.clinerules
+
+# Ignorar Dockerfiles (no es necesario incluirlos en la imagen)
+Dockerfile*
+.dockerignore
+
+# Ignorar scripts y herramientas
+scripts/
+tools/
+*.ps1
+*.sh
+*.bat
+
+# Ignorar archivos de paquetes NuGet globales
+global.json
