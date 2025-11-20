@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "f8hUfwAt0oY=",
+  "dgSpecHash": "dkijo2UXJ1Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\PuyoDev\\RiderProjects\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata.csproj",
   "expectedPackageFiles": [
@@ -63,7 +63,13 @@
     "C:\\Users\\PuyoDev\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
     "C:\\Users\\PuyoDev\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\PuyoDev\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512",
-    "C:\\Users\\PuyoDev\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\9.0.8\\microsoft.netcore.app.runtime.linux-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.8\\microsoft.netcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\9.0.8\\microsoft.aspnetcore.app.runtime.linux-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.8\\microsoft.aspnetcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\9.0.8\\microsoft.netcore.app.host.linux-x64.9.0.8.nupkg.sha512"
   ],
   "logs": [
     {
@@ -75,7 +81,9 @@
       "filePath": "C:\\Users\\PuyoDev\\RiderProjects\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata.csproj",
       "libraryId": "MediatR",
       "targetGraphs": [
-        "net9.0"
+        "net9.0",
+        "net9.0/linux-x64",
+        "net9.0/win-x64"
       ]
     }
   ]

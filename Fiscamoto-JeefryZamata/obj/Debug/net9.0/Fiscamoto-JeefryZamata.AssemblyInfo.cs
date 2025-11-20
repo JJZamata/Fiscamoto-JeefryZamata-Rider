@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fiscamoto-JeefryZamata")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5adf584b9bc53c023567368f80cd42808257766")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fiscamoto-JeefryZamata")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fiscamoto-JeefryZamata")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
