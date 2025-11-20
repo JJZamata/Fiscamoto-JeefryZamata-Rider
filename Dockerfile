@@ -11,7 +11,7 @@ COPY ["Fiscamoto-JeefryZamata.Infrastructure/Fiscamoto-JeefryZamata.Infrastructu
 COPY ["Fiscamoto-JeefryZamata.sln", "./"]
 
 # Restaurar paquetes para toda la solución (optimizado por cache)
-RUN dotnet restore "./Fiscamoto-JeefryZamata.sln"
+RUN dotnet restore "./Fiscamoto-JeefryZamata/Fiscamoto-JeefryZamata.csproj"
 
 # Copiar todo el código fuente
 COPY . .
@@ -23,8 +23,8 @@ RUN dotnet publish "./Fiscamoto-JeefryZamata/Fiscamoto-JeefryZamata.csproj" \
     -c Release \
     -o /app/out \
     --self-contained true \
-    --runtime linux-x64 \
-    --no-restore
+    --runtime linux-x64
+
 
 # Stage final: Imagen ligera con .NET 9 runtime
 FROM mcr.microsoft.com/dotnet/aspnet:9.0 AS final
