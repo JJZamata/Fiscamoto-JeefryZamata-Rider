@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Fiscamoto-JeefryZamata.Domain/1.0.0": {
+        "runtime": {
+          "Fiscamoto-JeefryZamata.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fiscamoto-JeefryZamata.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

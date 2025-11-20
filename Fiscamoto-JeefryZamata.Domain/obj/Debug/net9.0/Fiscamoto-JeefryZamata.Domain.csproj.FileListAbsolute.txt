@@ -1,0 +1,11 @@
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\bin\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.deps.json
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\bin\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\bin\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.pdb
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.AssemblyInfoInputs.cache
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.AssemblyInfo.cs
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.csproj.CoreCompileInputs.cache
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\refint\Fiscamoto-JeefryZamata.Domain.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\Fiscamoto-JeefryZamata.Domain.pdb
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Domain\obj\Debug\net9.0\ref\Fiscamoto-JeefryZamata.Domain.dll

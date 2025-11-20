@@ -1,0 +1,15 @@
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\bin\Release\net9.0\Fiscamoto-JeefryZamata.Application.deps.json
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\bin\Release\net9.0\Fiscamoto-JeefryZamata.Application.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\bin\Release\net9.0\Fiscamoto-JeefryZamata.Application.pdb
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\bin\Release\net9.0\Fiscamoto-JeefryZamata.Domain.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\bin\Release\net9.0\Fiscamoto-JeefryZamata.Domain.pdb
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.csproj.AssemblyReference.cache
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.AssemblyInfoInputs.cache
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.AssemblyInfo.cs
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.csproj.CoreCompileInputs.cache
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamot.22120800.Up2Date
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\refint\Fiscamoto-JeefryZamata.Application.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\Fiscamoto-JeefryZamata.Application.pdb
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata.Application\obj\Release\net9.0\ref\Fiscamoto-JeefryZamata.Application.dll

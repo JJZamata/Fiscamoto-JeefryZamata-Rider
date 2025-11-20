@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "xUQMErHJNB8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PuyoDev\\RiderProjects\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata.Application\\Fiscamoto-JeefryZamata.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",
+    "C:\\Users\\PuyoDev\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1608",
+      "level": "Warning",
+      "message": "Detected package version outside of dependency constraint: MediatR.Extensions.Microsoft.DependencyInjection 11.1.0 requires MediatR (>= 11.0.0 && < 12.0.0) but version MediatR 12.4.1 was resolved.",
+      "projectPath": "C:\\Users\\PuyoDev\\RiderProjects\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata.Application\\Fiscamoto-JeefryZamata.Application.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\PuyoDev\\RiderProjects\\Fiscamoto-JeefryZamata\\Fiscamoto-JeefryZamata.Application\\Fiscamoto-JeefryZamata.Application.csproj",
+      "libraryId": "MediatR",
+      "targetGraphs": [
+        "net9.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+@Fiscamoto_JeefryZamata_HostAddress = http://localhost:5127
+
+GET {{Fiscamoto_JeefryZamata_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
