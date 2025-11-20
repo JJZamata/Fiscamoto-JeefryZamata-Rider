@@ -33,7 +33,6 @@ WORKDIR /app
 # Variables de entorno para Render
 # Render inyectará el valor de PORT automáticamente
 ENV ASPNETCORE_URLS=http://0.0.0.0:$PORT
-ENV ASPNETCORE_ENVIRONMENT=Production
 
 # Copiar los archivos publicados desde el stage de compilación
 COPY --from=build /app/out .

@@ -139,3 +139,4 @@ C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata\bin
 C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata\bin\Debug\net9.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PuyoDev\RiderProjects\Fiscamoto-JeefryZamata\Fiscamoto-JeefryZamata\obj\Debug\net9.0\Fiscamoto-JeefryZamata.sourcelink.json
